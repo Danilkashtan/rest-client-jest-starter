@@ -4,8 +4,8 @@
   "description": "rest-client-jest-starter",
   "main": "scripts.js",
   "scripts": {
-    "test": "jest",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "jest"
   },
   "keywords": [
   "browser",
